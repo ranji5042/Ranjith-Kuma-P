@@ -1,4 +1,4 @@
-def generate_limited_odd_series(a):
+def limited_odd_series(a):
     count = a if a % 2 != 0 else a - 1
     result = []
     num = 1
