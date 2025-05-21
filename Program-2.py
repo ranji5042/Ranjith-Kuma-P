@@ -1,4 +1,4 @@
-def generate_odd_series(a):
+def odd_series(a):
     result = []
     num = 1
     for _ in range(a):
